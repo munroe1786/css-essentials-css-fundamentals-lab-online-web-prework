@@ -22,6 +22,6 @@ figcaption {
   font-size: 10px
 }
 section > p {
-  width: 800px;
+  max width: 800px;
   text-align: center
 }

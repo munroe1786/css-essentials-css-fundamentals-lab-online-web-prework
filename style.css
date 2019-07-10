@@ -21,7 +21,7 @@ figure figcaption {
 figcaption {
   font-size: 10px
 }
-#featured-property > p {
+#featured-property > p, p {
   text-align: center
 }
 #featured-property > p {

@@ -21,10 +21,10 @@ figure figcaption {
 figcaption {
   font-size: 10px
 }
-#featured-property > p, p {
+#featured-property > p {
   text-align: center
 }
-#featured-property > p, p {
+#featured-property > p {
   width: 800px;
 }
 #details > div {

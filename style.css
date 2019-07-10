@@ -21,7 +21,7 @@ figure figcaption {
 figcaption {
   font-size: 10px
 }
-section > p {
+#featured-property > p {
   max width: 800px;
   text-align: center
 }

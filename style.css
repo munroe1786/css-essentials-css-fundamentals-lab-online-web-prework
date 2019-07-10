@@ -13,7 +13,7 @@ img {
   margin-right: auto
 }
 
-a {
+nav > a {
   padding: 10px;
   background-color: grey
 }

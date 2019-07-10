@@ -18,3 +18,7 @@ a {
   background-color: grey
 }
 
+figcaption {
+  font-size: 20px
+  text-align: center;
+}

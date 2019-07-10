@@ -6,7 +6,6 @@ body {
 header {
   text-align: center
 }
-
 img {
   display: block;
   margin-left: auto;
@@ -18,4 +17,7 @@ nav > a {
 }
 figure figcaption {
   text-align: center
+}
+figcaption {
+  font-size: 10px
 }
